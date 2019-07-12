@@ -81,6 +81,10 @@
         .col-6 img, col-sm-2 img {
             width: 100%;
         }
+        .outlined {
+            border: 2px solid white;
+            outline: 2px solid #f6c86a;
+        }
         @media (min-width: 768px) {
             .logos {
                 justify-content: space-between;
